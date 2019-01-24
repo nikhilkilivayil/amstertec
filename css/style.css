@@ -1667,13 +1667,13 @@ height: 11em;
     transition: 1s;
 }
 .left-icon{
-    width: 140px;
+    width: 200px;
 
 }
 .left-icon img{
     width: 100%;
     border-radius: 20%;
-    height: 100px;
+    height: 150px;
 }
 .left-icon.other{
     width: 30px;
