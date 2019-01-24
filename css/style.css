@@ -188,8 +188,9 @@ color:#a3c962;
 }
 /*-- //nav --*/
 /*-- banner --*/ 
-.one-img{  background: url(../pics/wall.webp)no-repeat center;
+.one-img{  background: #fff;
 filter: grayscale(60%);
+    color: #000;
 }
 .two-img{  background: url(../images/b5.jpg)no-repeat center;}
 .three-img{  background: url(../images/b6.jpg)no-repeat center;} 
@@ -341,7 +342,7 @@ color:#a3c962;
 }
 .banner-top-grid h4 {
 font-size: 20px;
-color: #fff;
+color: #000;
 letter-spacing: 3px;
     line-height: 30px;
 }
@@ -433,7 +434,7 @@ border: 2px solid #ffffff;
 /*-- //banner --*/
 /*--about--*/
 .about-color{
-background: #e10090;
+background: #259F3B;
 }
 .about-ebin-grids {
 padding:6.5em 5em;
@@ -916,15 +917,15 @@ line-height:25px;}
 .copy-bottom-txt p a:hover{color:#fff;
 text-decoration:underline;
 padding-top:4px;}
-.copy-bottom-txt {background:#e10090;}
+.copy-bottom-txt {background:#259F3B;}
 .s-link ul li a span:hover,.social-icons ul li a span:hover,.click-me:hover,.more a:hover {
 color: #ffffff;
-background: #e10090;
+background: #259F3B;
 }
 .color-1 span,ul#tab-button li a.color-1 span{color:#00dcff;}
 .color-2 span,ul#tab-button li a.color-2 span{color:#6610f2;}
 .color-3 span,ul#tab-button li a.color-3 span{color:#007bff;}
-.color-4 span,ul#tab-button li a.color-4 span{color:#e83e8c;}
+.color-4 span,ul#tab-button li a.color-4 span{color:#259F3B;}
 /*-- to-top --*/
 #toTop {
 display: none;
@@ -952,8 +953,12 @@ filter: alpha(opacity=0);
 }
 /*--responsive--*/
 @media(max-width:1920px){
+    .navbar-brand{
+        width: 150px;
+    }
 }
 @media(max-width:1680px){
+
 }
 @media(max-width:1600px){
 }

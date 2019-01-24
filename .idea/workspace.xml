@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec21e3d-1f7c-489e-bfd6-b661cabe3bae" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/commercial.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart-cities.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/waste-collectors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commercial.html" beforeDir="false" afterPath="$PROJECT_DIR$/commercial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waste-collectors.html" beforeDir="false" afterPath="$PROJECT_DIR$/waste-collectors.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="440" column="19" lean-forward="true" selection-start-line="440" selection-start-column="19" selection-end-line="440" selection-end-column="19" />
+            <state relative-caret-position="420">
+              <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#57341#57345#0" expanded="true" />
@@ -42,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="waste-collectors.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="waste-collectors.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/waste-collectors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="202" column="28" selection-start-line="202" selection-start-column="28" selection-end-line="202" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#23267#23271#0" expanded="true" />
@@ -65,48 +62,8 @@
       <file leaf-file-name="commercial.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commercial.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="273" column="22" lean-forward="true" selection-start-line="273" selection-start-column="22" selection-end-line="273" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#23267#23271#0" expanded="true" />
-                <element signature="e#23272#23279#0" expanded="true" />
-                <element signature="e#23288#23295#0" expanded="true" />
-                <element signature="e#23295#23299#0" expanded="true" />
-                <element signature="e#23306#23310#0" expanded="true" />
-                <element signature="e#23311#23318#0" expanded="true" />
-                <element signature="e#23323#23330#0" expanded="true" />
-                <element signature="e#23330#23334#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="private.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/private.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="256" selection-start-line="256" selection-end-line="256" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#23267#23271#0" expanded="true" />
-                <element signature="e#23272#23279#0" expanded="true" />
-                <element signature="e#23288#23295#0" expanded="true" />
-                <element signature="e#23295#23299#0" expanded="true" />
-                <element signature="e#23306#23310#0" expanded="true" />
-                <element signature="e#23311#23318#0" expanded="true" />
-                <element signature="e#23323#23330#0" expanded="true" />
-                <element signature="e#23330#23334#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="smart-cities.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/smart-cities.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="189" column="13" selection-start-line="189" selection-start-column="13" selection-end-line="189" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#23267#23271#0" expanded="true" />
@@ -134,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="1677" column="17" lean-forward="true" selection-start-line="1677" selection-start-column="17" selection-end-line="1677" selection-end-column="17" />
+            <state relative-caret-position="336">
+              <caret line="956" column="20" selection-start-line="956" selection-start-column="20" selection-end-line="956" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -181,12 +138,12 @@
       <list>
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/products.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/smart-cities.html" />
-        <option value="$PROJECT_DIR$/commercial.html" />
         <option value="$PROJECT_DIR$/private.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/waste-collectors.html" />
+        <option value="$PROJECT_DIR$/commercial.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -270,18 +227,18 @@
       <workItem from="1548147056457" duration="2597000" />
       <workItem from="1548169368132" duration="3281000" />
       <workItem from="1548181200613" duration="651000" />
-      <workItem from="1548264880046" duration="21613000" />
+      <workItem from="1548264880046" duration="25121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29191000" />
+    <option name="totallyTimeSpent" value="32699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -518,67 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="1677" column="17" lean-forward="true" selection-start-line="1677" selection-start-column="17" selection-end-line="1677" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="440" column="19" lean-forward="true" selection-start-line="440" selection-start-column="19" selection-end-line="440" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#57341#57345#0" expanded="true" />
-            <element signature="e#57346#57353#0" expanded="true" />
-            <element signature="e#57362#57369#0" expanded="true" />
-            <element signature="e#57369#57373#0" expanded="true" />
-            <element signature="e#57380#57384#0" expanded="true" />
-            <element signature="e#57385#57392#0" expanded="true" />
-            <element signature="e#57397#57404#0" expanded="true" />
-            <element signature="e#57404#57408#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/smart-cities.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="189" column="13" selection-start-line="189" selection-start-column="13" selection-end-line="189" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#23267#23271#0" expanded="true" />
-            <element signature="e#23272#23279#0" expanded="true" />
-            <element signature="e#23288#23295#0" expanded="true" />
-            <element signature="e#23295#23299#0" expanded="true" />
-            <element signature="e#23306#23310#0" expanded="true" />
-            <element signature="e#23311#23318#0" expanded="true" />
-            <element signature="e#23323#23330#0" expanded="true" />
-            <element signature="e#23330#23334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commercial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="273" column="22" lean-forward="true" selection-start-line="273" selection-start-column="22" selection-end-line="273" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#23267#23271#0" expanded="true" />
-            <element signature="e#23272#23279#0" expanded="true" />
-            <element signature="e#23288#23295#0" expanded="true" />
-            <element signature="e#23295#23299#0" expanded="true" />
-            <element signature="e#23306#23310#0" expanded="true" />
-            <element signature="e#23311#23318#0" expanded="true" />
-            <element signature="e#23323#23330#0" expanded="true" />
-            <element signature="e#23330#23334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/private.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -597,10 +493,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/waste-collectors.html">
+    <entry file="file://$PROJECT_DIR$/smart-cities.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="202" column="28" selection-start-line="202" selection-start-column="28" selection-end-line="202" selection-end-column="28" />
+        <state relative-caret-position="-180">
+          <caret line="189" column="13" selection-start-line="189" selection-start-column="13" selection-end-line="189" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#23267#23271#0" expanded="true" />
@@ -612,6 +508,67 @@
             <element signature="e#23323#23330#0" expanded="true" />
             <element signature="e#23330#23334#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waste-collectors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#23267#23271#0" expanded="true" />
+            <element signature="e#23272#23279#0" expanded="true" />
+            <element signature="e#23288#23295#0" expanded="true" />
+            <element signature="e#23295#23299#0" expanded="true" />
+            <element signature="e#23306#23310#0" expanded="true" />
+            <element signature="e#23311#23318#0" expanded="true" />
+            <element signature="e#23323#23330#0" expanded="true" />
+            <element signature="e#23330#23334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commercial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#23267#23271#0" expanded="true" />
+            <element signature="e#23272#23279#0" expanded="true" />
+            <element signature="e#23288#23295#0" expanded="true" />
+            <element signature="e#23295#23299#0" expanded="true" />
+            <element signature="e#23306#23310#0" expanded="true" />
+            <element signature="e#23311#23318#0" expanded="true" />
+            <element signature="e#23323#23330#0" expanded="true" />
+            <element signature="e#23330#23334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#57341#57345#0" expanded="true" />
+            <element signature="e#57346#57353#0" expanded="true" />
+            <element signature="e#57362#57369#0" expanded="true" />
+            <element signature="e#57369#57373#0" expanded="true" />
+            <element signature="e#57380#57384#0" expanded="true" />
+            <element signature="e#57385#57392#0" expanded="true" />
+            <element signature="e#57397#57404#0" expanded="true" />
+            <element signature="e#57404#57408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="956" column="20" selection-start-line="956" selection-start-column="20" selection-end-line="956" selection-end-column="20" />
         </state>
       </provider>
     </entry>
