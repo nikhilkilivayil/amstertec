@@ -341,10 +341,12 @@ text-shadow: 1px 1px 7px #151212;
 color:#a3c962;
 }
 .banner-top-grid h4 {
-font-size: 20px;
-color: #000;
-letter-spacing: 3px;
+    font-size: 22px;
+    color: #718074;
+    letter-spacing: 3px;
     line-height: 30px;
+    text-shadow: 1px 1px 3px #839185;
+    font-weight: 500;
 }
 .bottom-info h6{
 font-size:18px;
