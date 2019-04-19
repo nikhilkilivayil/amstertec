@@ -1919,4 +1919,10 @@ ul.benefits{
   .home-content h1{
     font-size: 1.1rem;
   }
+  .card{
+    margin: 0px;
+  }
+  .ben.card{
+    margin-left: 29px;
+  }
 }
