@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42422990-4208-4c16-8d14-44083e1b309c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/benefits.html" beforeDir="false" afterPath="$PROJECT_DIR$/benefits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/template-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/template-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud.html" beforeDir="false" afterPath="$PROJECT_DIR$/cloud.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +20,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="675">
               <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -31,20 +29,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template-style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/template-style.css">
+      <file leaf-file-name="cloud.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="1925" column="21" selection-start-line="1925" selection-start-column="21" selection-end-line="1925" selection-end-column="21" />
+            <state relative-caret-position="183">
+              <caret line="110" column="129" selection-start-line="110" selection-start-column="129" selection-end-line="110" selection-end-column="129" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="benefits.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="template-style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/template-style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="1923" column="3" lean-forward="true" selection-start-line="1923" selection-start-column="3" selection-end-line="1923" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="benefits.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/benefits.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
+            <state relative-caret-position="171">
+              <caret line="107" column="64" selection-start-line="107" selection-start-column="64" selection-end-line="107" selection-end-column="64" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -96,9 +106,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/private-organization.html" />
         <option value="$PROJECT_DIR$/smart-cities.html" />
+        <option value="$PROJECT_DIR$/css/template-style.css" />
         <option value="$PROJECT_DIR$/cloud.html" />
         <option value="$PROJECT_DIR$/benefits.html" />
-        <option value="$PROJECT_DIR$/css/template-style.css" />
       </list>
     </option>
   </component>
@@ -170,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.smart-box.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="about-us.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/E_BIN 2/about-us.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/E_BIN 2/index.html" />
     <configuration name="services.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/E_BIN 2/services.html" />
@@ -183,8 +193,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.smart-box.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.smart-box.html" />
         <item itemvalue="JavaScript Debug.about-us.html" />
         <item itemvalue="JavaScript Debug.services.html" />
       </list>
@@ -200,16 +210,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555657846072</updated>
-      <workItem from="1555657849154" duration="28303000" />
+      <workItem from="1555657849154" duration="29875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28303000" />
+    <option name="totallyTimeSpent" value="29875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24944155" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -218,7 +227,7 @@
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.33073324" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.33073324" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -370,20 +379,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud.html">
+    <entry file="file://$PROJECT_DIR$/css/template-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="112" column="200" selection-start-line="112" selection-start-column="200" selection-end-line="112" selection-end-column="200" />
+        <state relative-caret-position="228">
+          <caret line="1923" column="3" lean-forward="true" selection-start-line="1923" selection-start-column="3" selection-end-line="1923" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/cloud.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+        <state relative-caret-position="183">
+          <caret line="110" column="129" selection-start-line="110" selection-start-column="129" selection-end-line="110" selection-end-column="129" />
           <folding>
             <element signature="n#style#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -392,18 +408,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/benefits.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
+        <state relative-caret-position="171">
+          <caret line="107" column="64" selection-start-line="107" selection-start-column="64" selection-end-line="107" selection-end-column="64" />
           <folding>
             <element signature="n#style#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/template-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="1925" column="21" selection-start-line="1925" selection-start-column="21" selection-end-line="1925" selection-end-column="21" />
         </state>
       </provider>
     </entry>
