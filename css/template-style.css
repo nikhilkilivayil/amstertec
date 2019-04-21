@@ -1926,3 +1926,13 @@ ul.benefits{
     margin-left: 0;
   }
 }
+.footer{
+  max-width: 100% !important;
+  margin: 0 !important;
+  background: #617E2D;
+  padding: 50px !important;
+}
+.footer p{
+  color: #fff;
+  font-size: 20px !important;
+}
